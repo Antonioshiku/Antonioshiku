@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Banyar Min Thant</h1>
 <h3 align="center">ForntEnd & React Developer !</h3>
 
-- I’m currently learning **react, Type-script**
+- I’m currently learning **React and Type-script**
 
 - 📫 How to reach me **joekudo303@gmail.com**
 
